@@ -82,4 +82,4 @@ public class MapParserTest {
             });
         Assertions.assertEquals("Input text lines are not of equal width.", thrown.getMessage());
     }
-}a
+}
